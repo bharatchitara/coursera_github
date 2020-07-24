@@ -1,0 +1,141 @@
+[33mcommit c785b9f70df0dede5a0c386e7d576e2881205904[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: bharat chitara <bharatchitara99@gmail.com>
+Date:   Fri Jul 24 17:45:25 2020 +0530
+
+    file created from github
+
+[33mcommit bebd47a8e59f36b465d282295446f31d3c1ea733[m
+Merge: a3fcafe db770dc
+Author: bharat chitara <bharatchitara99@gmail.com>
+Date:   Thu Jul 23 18:22:29 2020 +0530
+
+    Merge branch 'v1.1'
+    
+    note : reloved the conflict
+
+[33mcommit db770dc436c9cf85f191f10ec88bbee1fba07e42[m[33m ([m[1;31morigin/v1.1[m[33m, [m[1;32mv1.1[m[33m)[m
+Author: bharat chitara <bharatchitara99@gmail.com>
+Date:   Thu Jul 23 18:19:10 2020 +0530
+
+    branch v1.1
+
+[33mcommit a3fcafea393ce92260d299fb592440e1ae3d92b6[m
+Author: bharat chitara <bharatchitara99@gmail.com>
+Date:   Thu Jul 23 18:18:35 2020 +0530
+
+    added to the main
+
+[33mcommit 2b674a1be1cde14a6c11479777f5874b53cab9bf[m
+Author: bharat chitara <bharatchitara99@gmail.com>
+Date:   Thu Jul 23 17:53:14 2020 +0530
+
+    added into v1.1
+
+[33mcommit 107513fbc8897037dd9a067994b9f805348b7cae[m
+Author: bharat chitara <bharatchitara99@gmail.com>
+Date:   Thu Jul 23 15:32:48 2020 +0530
+
+    Revert "faltu files"
+    
+    ROLLBACK : DELETING 2 FILES
+    This reverts commit 962d7920e859f7e1c99f532cba87f9a81b9fee76.
+
+[33mcommit 962d7920e859f7e1c99f532cba87f9a81b9fee76[m
+Author: bharat chitara <bharatchitara99@gmail.com>
+Date:   Thu Jul 23 15:32:36 2020 +0530
+
+    faltu files
+
+[33mcommit f7370093c8dfce86fdcba30e2b156beefdb20be9[m
+Author: bharat chitara <bharatchitara99@gmail.com>
+Date:   Thu Jul 23 15:10:30 2020 +0530
+
+    Revert "workign tree updated"
+    
+    ROLLBACK : removig the rule for .zip files
+    
+    This reverts commit 745b64c43a6680d622d63f7452859e7493c3d5b8.
+
+[33mcommit 745b64c43a6680d622d63f7452859e7493c3d5b8[m
+Author: bharat chitara <bharatchitara99@gmail.com>
+Date:   Thu Jul 23 15:10:10 2020 +0530
+
+    workign tree updated
+
+[33mcommit abfff5b5215669bdfa5c9e78d781b51bcf27aef1[m
+Author: bharat chitara <bharatchitara99@gmail.com>
+Date:   Thu Jul 23 15:01:42 2020 +0530
+
+    updated .gitignore
+
+[33mcommit f04e317850d0c42d8360de2c895e65a13f344954[m
+Author: bharat chitara <bharatchitara99@gmail.com>
+Date:   Thu Jul 23 14:59:04 2020 +0530
+
+    added two files named 'one.txt' & 'two.sh'.
+
+[33mcommit e999f61de270b003a5cc63d8f4ee1bd866f61f1e[m
+Author: bharat chitara <bharatchitara99@gmail.com>
+Date:   Wed Jul 22 18:07:27 2020 +0530
+
+    zip files should not be store
+
+[33mcommit 9e579b85fa1ac9fde9c5c3b55a1bda0fe5844972[m
+Author: bharat chitara <bharatchitara99@gmail.com>
+Date:   Wed Jul 22 18:03:23 2020 +0530
+
+    adding temp files
+
+[33mcommit 42504127faea8a00307c8f69c7684e76d1945d95[m
+Author: bharat chitara <bharatchitara99@gmail.com>
+Date:   Wed Jul 22 18:01:41 2020 +0530
+
+    adding .gitignore
+
+[33mcommit 9184f3eb514766c21b39c5cfc8c0e40251bb20fa[m
+Author: bharat chitara <bharatchitara99@gmail.com>
+Date:   Wed Jul 22 17:56:38 2020 +0530
+
+    renamed
+
+[33mcommit 89f1fd61f9b3d062b778d15b59e1901cc87e524b[m
+Author: bharat chitara <bharatchitara99@gmail.com>
+Date:   Wed Jul 22 17:40:58 2020 +0530
+
+    DELETED new.txt
+
+[33mcommit 86b0d8cf3c87b6b42b92ea24b2516bbc81016e73[m
+Author: bharat chitara <bharatchitara99@gmail.com>
+Date:   Wed Jul 22 17:35:57 2020 +0530
+
+    added subprocess
+
+[33mcommit 0431151f20874bf2e88602b59e1679e73c42cbfb[m
+Author: bharat chitara <bharatchitara99@gmail.com>
+Date:   Wed Jul 22 13:56:53 2020 +0530
+
+    new.txt
+
+[33mcommit f3fa929ef365ec3b2947832863efe7d0118ed948[m
+Author: bharat chitara <bharatchitara99@gmail.com>
+Date:   Wed Jul 22 13:54:37 2020 +0530
+
+    commiting without staging
+
+[33mcommit 5fecad3485f14a7e7137357e62c83f0f7d87847a[m
+Author: bharat chitara <bharatchitara99@gmail.com>
+Date:   Tue Jul 21 16:56:24 2020 +0530
+
+    committing without staging
+
+[33mcommit 696ef45673862ffc4b6d80aa76d8dc75eea65229[m
+Author: bharat chitara <bharatchitara99@gmail.com>
+Date:   Tue Jul 21 16:42:46 2020 +0530
+
+    CONTENt added.
+
+[33mcommit 4f056adfa6a67336bf64efc4723803f573304ec2[m
+Author: bharat chitara <bharatchitara99@gmail.com>
+Date:   Tue Jul 21 16:24:52 2020 +0530
+
+    added new file named test.sh
