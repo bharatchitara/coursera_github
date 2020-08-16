@@ -7,3 +7,4 @@ def test(a,b):
   print('this file was created from github')
   
 test(3,5)
+test(1,2)
