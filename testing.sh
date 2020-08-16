@@ -2,7 +2,7 @@
 import os 
 import subprocess
 
-print('hello')
+#print('hello')
 
 var1=input("enter 1st no.")
 var2 = input("enter 2nd no.")
